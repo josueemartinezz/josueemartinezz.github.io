@@ -6,21 +6,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Josue Martinez, and I am third year Computer Science student in the Computer Science & Engineering Department at the University of California, San Diego (UCSD). I'm a first-generation college student who enjoys several applications of computing including, but not limited to, software engineering, embedded systems, web development, and machine learning. I'm appointed as the Computer Science and Engineering Society's (CSES) Outreach Chair for Alumni and I'm also involved at Triton Solar Car as an embedded software technician working on the auxillary system of the vehicle. 
+My name is Josue Martinez, a third year studying Computer Science at the University of California, San Diego (UCSD). I'm a first-generation Latine student who enjoys several applications of computing including, but not limited to, software engineering, computing education, embedded systems, web development, and machine learning. 
 
-I'm currently working on...
+I'm currently working on... (as of May 6th, 2024)
 ------
+0. Creating a computer vision model to detect whether something should be composted, recycled, or thrown in the trash.
 1. Contributing to an open source web application called [Activist](https://activist.org/en/home/). 
 2. Organizing and piloting CSES's first Alumni Mentorship Program, connecting our current members with industry professionals. 
-3. Testing wifi and bluetooth capabilities of an ESP32 microcontroller before applying functionality within a solar car.
+3. Attempting to create learning initiative to embed Culturally Relevant Computing (CRC) principles into introductory programming courses at UCSD. 
+4. Creating an PostgreSQL database that simulates UC San Diego's encompassing data such as courses, classes, students, departments, degrees, and more!
+5. Tutoring CSE100: Advanced Data Structures and Algorithms at UC San Diego.
 
 Experience
 ======
+- **Computer Science and Engineering Department** (02/24 - Present)
+  - **Instructional Assistant**
+    - Tutoring for Professor [Niema Moshiri](https://niema.net/).
+    - Provide personalized tutoring support for 400+ students addressing conceptual and coding issues related to C++ and diverse data structures, and assistance on algorithm formulation.
+    - My responsibilities include answering questions during lecture, monitoring Zoom sessions and answering remote questions, promptly addressing student inquiries, providing lab hours for students, and prepping for weekly material.
 - **Triton Solar Car** (10/23 - Present)
+  - **Embedded Software Developer**
     - Utilized XCTU software application to test telecommunication between sender and receiver radio modules. 
     - Prototyped file writing to represent solar energy consumption variables using CANEdge loggers; successfully mocked file writing and uploading buckets of raw data over MinIO Server to simulate the driver and the technical team communication during implementation stage. 
     - My most recent task involved learning ESP32’s LittleFS filesystem to permanently save data for each node on the CAN bus. 
 - **Computer Science and Engineering Society** (9/23 - Present)
+  - **External Chair for Alumni**
     - I am responsible for configuring and maintaining our organization’s active alumni database with over 300 members.
     - Served as liaison for the entire organization by forging meaningful engagement, support, and contributions from alumni. 
     - I take over any responsibilities involving communication with UC San Diego alumni with technical backgrounds, consistently being a reliable resource for other departments when they require alumni-related assistance.
