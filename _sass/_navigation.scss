@@ -83,7 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
+      color: mix(#dd0896, $gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -93,7 +93,7 @@
 
       &.current {
         color: #fff;
-        background: $primary-color;
+        background: $code-background-color;
       }
 
       &.disabled {
@@ -175,13 +175,14 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: #060726;
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    // color: $masthead-link-color;
+    color: #9cbde5;
     text-decoration: none;
 
     &:hover {

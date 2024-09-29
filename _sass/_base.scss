@@ -5,13 +5,15 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  background-color: #060726;
 }
 
 body {
   margin: 0;
   padding: 0;
   padding-bottom: 9em;
-  color: $text-color;
+  // color: $text-color;
+  color: #9cbde5;
   font-family: $global-font-family;
   line-height: 1.5;
 
@@ -87,7 +89,8 @@ abbr[title],
 abbr[data-original-title] {
   text-decoration: none;
   cursor: help;
-  border-bottom: 1px dotted $text-color;
+  border-bottom: 1px dotted #dd0896;
+  // background-color: #dd0896;
 }
 
 /* blockquotes */

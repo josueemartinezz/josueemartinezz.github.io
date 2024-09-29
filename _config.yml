@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.jpeg"
+  avatar           : "profilePic.jpeg"
   name             : "Josue Martinez"
   pronouns         : "he/him/his"
-  bio              : "Third Year Undergraduate Computer Science, Bachelors"
+  bio              : "Fourth Year Undergraduate Computer Science, Bachelors"
   location         : "La Jolla, CA"
   employer         : "University of California, San Diego"
   uri              : # URL
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : josueemartinezz
   lastfm           : # Username
-  linkedin         : "josue-martinez-6a9151246"
+  linkedin         : "josueemartinezz"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -207,7 +207,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  experiences:
     output: true
     permalink: /:collection/:path/
 
@@ -259,12 +259,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _experiences
   - scope:
       path: ""
-      type: talks
+      type: experience
     values:
-      layout: talk
+      layout: experience
       author_profile: true
       share: true
 
