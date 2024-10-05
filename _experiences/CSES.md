@@ -1,6 +1,6 @@
 ---
 title: "External Director - Computer Science Engineering Society"
-collection: talks
+collection: experience
 type: "Leadership"
 permalink: https://csesucsd.com/
 venue: "UC San Diego Computer Science and Engineering Society"
